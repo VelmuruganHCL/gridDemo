@@ -1,0 +1,55 @@
+{  
+   "columns":[  
+     {  
+         "field":"empid",
+         "title":"Emp Id",
+         "sortable":false
+      },
+      {  
+         "field":"empname",
+         "title":"Employee Name",
+         "sortable":true
+      },
+      {  
+         "field":"age",
+         "title":"Age",
+         "sortable":true
+      },
+      {  
+         "field":"gender",
+         "title":"Gender",
+         "sortable":false
+      },
+      {  
+         "field":"pincode",
+         "title":"Pincode",
+         "sortable":false
+      }
+   ],
+   "data":[  
+      {  
+         "empid":"Emp1"
+         "empname":"Rajesh",
+         "age":"30",
+         "gender":"Male",
+         "pincode":"625300",
+         
+      },
+      { 
+         "empid":"Emp2", 
+         "empname":"Aditya",
+         "age":"25",
+         "gender":"Female",
+         "pincode":"623112",
+         
+      },
+      {  
+         "empid":"Emp3",
+         "empname":"Kavin",
+         "age":"28",
+         "gender":"Male",
+         "pincode":"388333"
+      },
+      
+   ]
+}
