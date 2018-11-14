@@ -28,7 +28,7 @@
    ],
    "data":[  
       {  
-         "empid":"Emp1"
+         "empid":"Emp1",
          "empname":"Rajesh",
          "age":"30",
          "gender":"Male",
