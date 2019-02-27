@@ -1,0 +1,21 @@
+{  
+   "title":"Total College Details",
+   "sum":24,
+   "series":[  
+      {  
+         "name":"Engineering",
+         "y":12,
+         "color":" #FFD025"
+      },
+      {  
+         "name":"Medical",
+         "y":6,
+         "color":"#DB8F25"
+      },
+      {  
+         "name":"Arts",
+         "y":6,
+         "color":"#D4534C"
+      }
+   ]
+}
